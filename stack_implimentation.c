@@ -23,7 +23,7 @@ int main(){
                         printf("enter you  element  : ");
                         scanf("%d",&element);
                         a[top]=element;
-                        top++;
+       
                     }
             break;    
             }
