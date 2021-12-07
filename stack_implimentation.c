@@ -22,6 +22,7 @@ int main(){
                 else{
                         printf("enter you  element  : ");
                         scanf("%d",&element);
+                        top++;
                         a[top]=element;
        
                     }
